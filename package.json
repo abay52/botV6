@@ -17,12 +17,12 @@
   "author": "Abay",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/abay63/bottermuxV6.git"
+    "url": "git+https://github.com/abay52/botV6.git"
   },
   "bugs": {
-    "url": "https://github.com/abay63/bottermuxV6/issues"
+    "url": "https://github.com/abay52/botV6/issues"
   },
-  "homepage": "https://github.com/abay63/bottermuxV6/readme",
+  "homepage": "https://github.com/abay52/botV6/readme",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^3.3.0",
